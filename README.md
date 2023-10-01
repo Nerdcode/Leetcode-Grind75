@@ -1,5 +1,6 @@
 # Grind75
 Curated list of 75 leetcode DSA questions for technical interviews. New Updated list of Blind 75.
+https://www.techinterviewhandbook.org/grind75
 
 Lets Build a repo for the ppl grinding for high paying jobs. #MAANG
 
@@ -16,3 +17,5 @@ Answers in these languages will be accepted.
 ##### Javascript 
 
 ##### Rust
+
+Please do follow folder structure and naming convention.
