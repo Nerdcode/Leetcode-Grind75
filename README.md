@@ -1,5 +1,6 @@
 # Grind75
 Curated list of 75 leetcode DSA questions for technical interviews. New Updated list of Blind 75.
+https://www.techinterviewhandbook.org/grind75
 
 Lets Build a repo for the ppl grinding for high paying jobs. #MAANG
 
