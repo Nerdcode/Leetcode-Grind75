@@ -17,3 +17,5 @@ Answers in these languages will be accepted.
 ##### Javascript 
 
 ##### Rust
+
+Please do follow folder structure and naming convention.
