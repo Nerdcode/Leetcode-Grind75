@@ -7,12 +7,12 @@ People who are interest can raise PRs with answers for the questions in this lis
 
 Answers in these languages will be accepted. 
 
-### Java 
+##### Java 
 
-### Python 
+##### Python 
 
-### C++ 
+##### C++ 
 
-### Javascript 
+##### Javascript 
 
-### Rust
+##### Rust
