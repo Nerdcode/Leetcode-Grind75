@@ -1,11 +1,11 @@
 # Valid Anagram
 
-***What is a Anagram?***
+***What is an Anagram?***
 
 A word or a phrase that is made by arranging the letters of another word or phrase in a different order. Example: `Worth` is an anagram of `throw`
 
 
-# Code Explaination:
+# Code Explanation:
 
 - First, we defined a class named Solution.
 - Inside the class, there is a method called `isAnagram` that takes two string parameters, `s` and `t`, and returns a boolean value indicating whether s and t
